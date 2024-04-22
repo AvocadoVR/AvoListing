@@ -1,7 +1,7 @@
 {
     "name": "Avocado Package Listing",
     "id": "com.avocado.avocado-package-listing",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/AvocadoVR/AvoListing/master/index.json",
     "author": "Avocado",
     "packages": {
         "com.avocado.avoutils" : {
