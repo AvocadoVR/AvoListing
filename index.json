@@ -1,0 +1,21 @@
+{
+    "name": "Avocado Package Listing",
+    "id": "com.avocado.avocado-package-listing",
+    "url": "",
+    "author": "Avocado",
+    "packages": {
+        "com.avocado.avoutils" : {
+            "versions":  {
+                "1.0.0": {
+                    "name": "com.avocado.avoutils",
+                    "displayName": "AvoUtils",
+                    "version": "1.0.0",
+                    "unity": "2022.3"
+                },
+                "zipSHA256": "3c00d015bd5ce68a7fbee894f3baacad9142ecda3041fd4f2e308f34368d1863",
+                "url": "https://github.com/AvocadoVR/AvoUtils/releases/download/1.0.0/com.avocado.avoutils-1.0.0.zip"
+            }
+            
+        }
+    }
+}
