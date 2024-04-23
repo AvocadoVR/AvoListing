@@ -1,7 +1,7 @@
 {
     "name": "Avocado Package Listing",
     "id": "com.avocado.avocado-package-listing",
-    "url": "https://raw.githubusercontent.com/AvocadoVR/AvoListing/master/index.json",
+    "url": "https://avocadovr.github.io/AvoListing/index.json",
     "author": "Avocado",
     "packages": {
         "com.avocado.avoutils" : {
@@ -15,7 +15,6 @@
                     "author" : {
                         "name": "Avocado"
                     },
-                "vrchatVersion": "2022.1.1",
                 "zipSHA256": "e008e8328b2c00670f6a803686dd2ab92e9738810eb2616f931cbf4c8ff308cb",
                 "url": "https://github.com/AvocadoVR/AvoUtils/releases/download/1.0.0/com.avocado.avoutils-1.0.0.zip"
                 }
