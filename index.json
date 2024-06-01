@@ -19,7 +19,7 @@
                    "name": "Avocado"
                 },
                 "zipSHA256":"",
-                "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.1.zip"
+                "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.1/com.avocado.avoutilities-1.0.1.zip"
              },
              "1.0.0":{
                 "name": "com.avocado.avoutilities",
