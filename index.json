@@ -1,25 +1,37 @@
 {
-    "name": "Avocado Package Listing",
-    "id": "com.avocado.avocado-package-listing",
-    "url": "https://avocadovr.github.io/AvoListing/index.json",
-    "author": "Avocado",
-    "packages": {
-      "com.avocado.avoutilities": {
-        "versions": {
-          "1.0.0": {
-            "name": "com.avocado.avoutilities",
-            "displayName": "AvoUtilities",
-            "version": "1.0.0",
-            "unity": "2019.4",
-            "unityRelease": "29f1",
-            "description": "",
-            "author": {
-              "name": "Avocado"
-            },
-            "zipSHA256": "",
-            "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.0.zip"
-          }
+  "name": "Avocado Package Listing",
+  "id": "com.avocado.avocado-package-listing",
+  "url": "https://avocadovr.github.io/AvoListing/index.json",
+  "author": "Avocado",
+  "packages": {
+    "com.avocado.avoutilities": {
+      "versions": {
+        "1.0.1": {
+          "name": "com.avocado.avoutilities",
+          "displayName": "AvoUtilities",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "",
+          "author": {
+            "name": "Avocado"
+          },
+          "zipSHA256": "",
+          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.1.zip",
+        "1.0.0": {
+          "name": "com.avocado.avoutilities",
+          "displayName": "AvoUtilities",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "",
+          "author": {
+            "name": "Avocado"
+          },
+          "zipSHA256": "",
+          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.0.zip"
         }
       }
     }
   }
+}
