@@ -2,7 +2,9 @@
   "name": "Avocado Package Listing",
   "id": "com.avocado.avocado-package-listing",
   "url": "https://avocadovr.github.io/AvoListing/index.json",
-  "author": "Avocado",
+    "author": {
+        "name": "Avocado",
+    },
   "packages": {
     "com.avocado.avoutilities": {
       "versions": {
