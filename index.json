@@ -14,7 +14,7 @@
                "unityRelease": "29f1",
                "description": "",
                "author":{
-                  "name": "Avocado"
+                  "name": "Avocado",
                },
                "zipSHA256":"",
                "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.1.zip"
