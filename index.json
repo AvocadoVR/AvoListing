@@ -4,6 +4,20 @@
   "url": "https://avocadovr.github.io/AvoListing/index.json",
   "author": "Avocado",
   "packages": {
+    "com.avocado.udontasks": {
+      "1.0.0": {
+        "name": "com.avocado.udontasks",
+        "displayName": "UdonTasks",
+        "version": "1.0.0",
+        "unity": "2019.4",
+        "unityRelease": "29f1",
+        "description": "",
+        "author": {
+          "name": "Avocado"
+        },
+        "zipSHA256": "",
+        "url": "https://github.com/AvocadoVR/UdonTasks/releases/download/1.0.0/com.avocado.udontasks-1.0.0.zip"
+    },
     "com.avocado.avoutilities": {
       "versions": {
         "1.1.4": {
