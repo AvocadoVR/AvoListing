@@ -6,6 +6,19 @@
     "packages": {
         "com.avocado.udontasks": {
             "versions": {
+                "1.0.1": {
+                    "name": "com.avocado.udontasks",
+                    "displayName": "UdonTasks",
+                    "version": "1.0.1",
+                    "unity": "2019.4",
+                    "unityRelease": "29f1",
+                    "description": "",
+                    "author": {
+                        "name": "Avocado"
+                    },
+                    "zipSHA256": "",
+                    "url": "https://github.com/AvocadoVR/UdonTasks/releases/download/1.0.1/com.avocado.udontasks-1.0.1.zip"
+                },
                 "1.0.0": {
                     "name": "com.avocado.udontasks",
                     "displayName": "UdonTasks",
