@@ -1,104 +1,105 @@
 {
-  "name": "Avocado Package Listing",
-  "id": "com.avocado.avocado-package-listing",
-  "url": "https://avocadovr.github.io/AvoListing/index.json",
-  "author": "Avocado",
-  "packages": {
-    "com.avocado.udontasks": {
-      "1.0.0": {
-        "name": "com.avocado.udontasks",
-        "displayName": "UdonTasks",
-        "version": "1.0.0",
-        "unity": "2019.4",
-        "unityRelease": "29f1",
-        "description": "",
-        "author": {
-          "name": "Avocado"
-        },
-        "zipSHA256": "",
-        "url": "https://github.com/AvocadoVR/UdonTasks/releases/download/1.0.0/com.avocado.udontasks-1.0.0.zip"
-    },
-    "com.avocado.avoutilities": {
-      "versions": {
-        "1.1.4": {
-          "name": "com.avocado.avoutilities",
-          "displayName": "AvoUtilities",
-          "version": "1.1.4",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.4/com.avocado.avoutilities-1.1.4.zip"
-        },
-        "1.1.3": {
-          "name": "com.avocado.avoutilities",
-          "displayName": "AvoUtilities",
-          "version": "1.1.3",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.3/com.avocado.avoutilities-1.1.3.zip"
-        },
-        "1.1.2": {
-          "name": "com.avocado.avoutilities",
-          "displayName": "AvoUtilities",
-          "version": "1.1.2",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.2/com.avocado.avoutilities-1.1.2.zip"
-        },
-        "1.0.2": {
-          "name": "com.avocado.avoutilities",
-          "displayName": "AvoUtilities",
-          "version": "1.0.2",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.2/com.avocado.avoutilities-1.0.2.zip"
-        },
-        "1.0.1": {
-          "name": "com.avocado.avoutilities",
-          "displayName": "AvoUtilities",
-          "version": "1.0.1",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.1/com.avocado.avoutilities-1.0.1.zip"
-        },
-        "1.0.0": {
-          "name": "com.avocado.avoutilities",
-          "displayName": " AvoUtilities",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "unityRelease": "29f1",
-          "description": "",
-          "author": {
-            "name": "Avocado"
-          },
-          "zipSHA256": "",
-          "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.0.zip"
+    "name": "Avocado Package Listing",
+    "id": "com.avocado.avocado-package-listing",
+    "url": "https://avocadovr.github.io/AvoListing/index.json",
+    "author": "Avocado",
+    "packages": {
+        "com.avocado.udontasks": {
+            "1.0.0": {
+                "name": "com.avocado.udontasks",
+                "displayName": "UdonTasks",
+                "version": "1.0.0",
+                "unity": "2019.4",
+                "unityRelease": "29f1",
+                "description": "",
+                "author": {
+                    "name": "Avocado"
+                },
+                "zipSHA256": "",
+                "url": "https://github.com/AvocadoVR/UdonTasks/releases/download/1.0.0/com.avocado.udontasks-1.0.0.zip"
+            },
+            "com.avocado.avoutilities": {
+                "versions": {
+                    "1.1.4": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": "AvoUtilities",
+                        "version": "1.1.4",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.4/com.avocado.avoutilities-1.1.4.zip"
+                    },
+                    "1.1.3": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": "AvoUtilities",
+                        "version": "1.1.3",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.3/com.avocado.avoutilities-1.1.3.zip"
+                    },
+                    "1.1.2": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": "AvoUtilities",
+                        "version": "1.1.2",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.1.2/com.avocado.avoutilities-1.1.2.zip"
+                    },
+                    "1.0.2": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": "AvoUtilities",
+                        "version": "1.0.2",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.2/com.avocado.avoutilities-1.0.2.zip"
+                    },
+                    "1.0.1": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": "AvoUtilities",
+                        "version": "1.0.1",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.1/com.avocado.avoutilities-1.0.1.zip"
+                    },
+                    "1.0.0": {
+                        "name": "com.avocado.avoutilities",
+                        "displayName": " AvoUtilities",
+                        "version": "1.0.0",
+                        "unity": "2019.4",
+                        "unityRelease": "29f1",
+                        "description": "",
+                        "author": {
+                            "name": "Avocado"
+                        },
+                        "zipSHA256": "",
+                        "url": "https://github.com/AvocadoVR/AvoUtilities/releases/download/1.0.0/com.avocado.avoutilities-1.0.0.zip"
+                    }
+                }
+            }
         }
-      }
     }
-  }
 }
